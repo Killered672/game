@@ -3,7 +3,6 @@ package main
 import (
 	"context"
 	"errors"
-	application "internal/application"
 	"log"
 	"os"
 )

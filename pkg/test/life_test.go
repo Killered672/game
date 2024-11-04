@@ -2,8 +2,9 @@ package life_test
 
 // Так как это другой пакет, нужно его импортировать
 import (
-	application "pkg/life"
 	"testing"
+
+	"github.com/Killered672/game/pkg/life"
 )
 
 func TestNewWorld(t *testing.T) {
