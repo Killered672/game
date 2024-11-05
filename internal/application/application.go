@@ -5,7 +5,7 @@ import (
 	"fmt"
 	"time"
 
-	"github.com/Killered672/game/pkg/life"
+	"github.com/Killered672/game/tree/main/pkg/life"
 )
 
 type Config struct {
