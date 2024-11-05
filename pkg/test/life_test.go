@@ -4,7 +4,7 @@ package life_test
 import (
 	"testing"
 
-	"github.com/Killered672/game/pkg/life"
+	"github.com/Killered672/game/blob/main/pkg/life"
 )
 
 func TestNewWorld(t *testing.T) {

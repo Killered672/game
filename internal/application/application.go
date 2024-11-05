@@ -1,6 +1,12 @@
 package application
 
-import "github.com/Killered672/game/pkg/life"
+import (
+	"context"
+	"fmt"
+	"time"
+
+	"github.com/Killered672/game/pkg/life"
+)
 
 type Config struct {
 	Width  int
