@@ -2,7 +2,7 @@ package main
 
 import (
 	"context"
-	"github.com/Killered672/game/internals/applications"
+	"github.com/Killered672/game/internal/application"
 	"os"
 )
 
